@@ -1,0 +1,11 @@
+Q1. Quick Analysis of the Data
+Q2. Information Finder
+Q3. Extended info. Finder
+Q4. Male vs Female Comparison
+Q5. Calculate Annual Bonus
+
+Part-2
+Q1. Analyze Salary Spread
+Q2. Relationship Between Salary & Rating
+Q3. Company Growth over Time
+Q4. Regional Scorecard
